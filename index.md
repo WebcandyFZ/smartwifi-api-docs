@@ -28,3 +28,6 @@ Get a list of people who received new feedback with feedback data within 15 minu
 
 Get a list of people who have received new voucher with voucher data within 15 minutes
 * GET /api/zapier/vouchers
+
+Get a list of people who have birthday today, within 15 minutes, or in current month
+* GET /api/zapier/birthdays
